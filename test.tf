@@ -1,3 +1,4 @@
+# Test file
 terraform {
   required_providers {
     vsphere = {
@@ -10,3 +11,6 @@ terraform {
 provider "vsphere" {
   # Configuration options
 }
+
+
+
